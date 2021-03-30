@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: 85a3baa46bd982b4aa84c119b2684f11
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3125014428698638392
+    second: phahmo_run_0
+  - first:
+      213: 8476791554758922295
+    second: phahmo_run_1
+  - first:
+      213: -378444731883816803
+    second: phahmo_run_2
+  - first:
+      213: 1004853224372771326
+    second: phahmo_run_3
+  - first:
+      213: 1298135826402800377
+    second: phahmo_run_4
+  - first:
+      213: -4728839852995649356
+    second: phahmo_run_5
+  - first:
+      213: -6973278476929110193
+    second: phahmo_run_6
+  - first:
+      213: 8012917672669791297
+    second: phahmo_run_7
+  - first:
+      213: -6737126010484411749
+    second: phahmo_run_8
+  - first:
+      213: 9009662189583683561
+    second: phahmo_run_9
+  - first:
+      213: 5555009020441338943
+    second: phahmo_run_10
+  - first:
+      213: -2092536622992428604
+    second: phahmo_run_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -97,7 +133,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: phahmo_run_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 592
+        width: 70
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c782732fe7b1a4d0800000000000000
+      internalID: -3125014428698638392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phahmo_run_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 592
+        width: 83
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730df60d10d93a570800000000000000
+      internalID: 8476791554758922295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phahmo_run_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 454
+        width: 94
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9872fc758e7fbaf0800000000000000
+      internalID: -378444731883816803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phahmo_run_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 444
+        width: 92
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef915220fa4f1fd00800000000000000
+      internalID: 1004853224372771326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phahmo_run_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 444
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f272f208a7e30210800000000000000
+      internalID: 1298135826402800377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phahmo_run_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 296
+        width: 62
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0eb7a4539cf5eb0800000000000000
+      internalID: -4728839852995649356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phahmo_run_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 296
+        width: 70
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f63c6db20f93f90800000000000000
+      internalID: -6973278476929110193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phahmo_run_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 148
+        width: 86
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144cee54b2a933f60800000000000000
+      internalID: 8012917672669791297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phahmo_run_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 158
+        width: 94
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92380a969be082a0800000000000000
+      internalID: -6737126010484411749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phahmo_run_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 148
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef4764b600c80d70800000000000000
+      internalID: 9009662189583683561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phahmo_run_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f342f7bb54b571d40800000000000000
+      internalID: 5555009020441338943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phahmo_run_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 62
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c17a033701d5f2e0800000000000000
+      internalID: -2092536622992428604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
